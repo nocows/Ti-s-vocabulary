@@ -3,5 +3,10 @@ register(v) (book, file, schedule, log)    registration(n)
 attend (show up, appear, check in, go to)   attendance(n) attendant(n)
 enroll (join, engage, enter, accept)    enrollment(n)
 major(n)(adj) (big, main, better, high)
-junior
-senior
+junior(adj) lower, lesser, second
+senior(adj) older, elder, higher, leading, last year of high school or college
+essential(adj) important, critical, crucial, vital, significant
+achieve(v) earn, gain, gather, take, collect, have, obtain, receive, accomplish, complete       achievement(n)
+solve(v) figure, explain, work out, clarify, decide, determine
+
+G R A M M A R: http://esl.fis.edu/grammar/index-q.htm (start from Single tense)
