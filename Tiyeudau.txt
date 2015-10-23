@@ -3,3 +3,5 @@ register(v) (book, file, schedule, log)    registration(n)
 attend (show up, appear, check in, go to)   attendance(n) attendant(n)
 enroll (join, engage, enter, accept)    enrollment(n)
 major(n)(adj) (big, main, better, high)
+junior
+senior
