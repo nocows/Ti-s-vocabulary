@@ -41,7 +41,23 @@ evaluate(v) xem xét, check out, dicide, judge           evaluation(n)
 strategy(n) chiến lược, plan, project, method
 location(n) địa điểm, place, site, area, section    locate(v) tìm 1 điểm nào đó
 
-IF (câu điều kiện)
+G R A M M A R: Should have, Could have, Would have (Past Modals)
+nói về những thứ không thực sự xảy ra trong quá khứ (hối tiếc, dự đoán)
+*Could have + V3: nói về 1 cái gì đó mình có thể làm nhưng đã không làm.
+Example: I could have passed the test but I didn't study. I could have bought the car if I had enough money.
+hoặc cũng để dùng để dự đoán: Where is he? He could have woken up late. (có lẽ ngủ dậy trễ)
+*Should have + V3: hối hận, đáng lẽ phải làm cái này.
+Example: I should have studied harder. (đáng lẽ phải học chăm hơn, fail test nên hối hận)
+          I shouldn't have slept too much. (ngủ nhiều nên giờ hối hận)
+should have cũng dùng để dự đoán: he should have been here by now.
+*Would have + V3: nói về thứ mình muốn nhưng không có hay không làm
+Example: I had had enough money, I would have bought a house.
+          I would have gone to school but I felt lazy.
+
+
+
+
+
 
 deconstructivism là postmodern architecture (kiến trúc hậu hiện đại?) bắt đầu từ 1980s là 1 trong những thể loại của 
 semiotic analysis (semiotic analysis là nghiên cứu về dấu hiệu và biểu tượng của hành vi giao tiếp)
