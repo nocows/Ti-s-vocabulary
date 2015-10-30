@@ -1,3 +1,7 @@
+"Patience is bitter but it's fruit is sweet" 
+-Jean-Jacques Rousseau-
+
+
 credit(v)(n) (points, tribute) 
 register(v) (book, file, schedule, log)    registration(n)
 attend (show up, appear, check in, go to)   attendance(n) attendant(n)
@@ -74,3 +78,12 @@ David Carson's website: http://www.davidcarsondesign.com/
           
 về buildings: (search trên google images nha) Seattle Central Library, Guggenheim Museum Bilbao, Walt Disney Concert Hall,
 Ray and Maria Stata Center, cctv headquarters.
+
+
+
+
+accurate(adj)
+personal(adj)
+announce(v)
+legal(adj)
+suit(v)
