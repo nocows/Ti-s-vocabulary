@@ -2,7 +2,7 @@
 //                  "Patience is bitter but it's fruit is sweet"        
 //                            -Jean-Jacques Rousseau- 
 // 
-// Check for examples of new vocabulary here: http://sentence.yourdictionary.com/
+// Check for sentence examples of new vocabulary here: http://sentence.yourdictionary.com/
 // 
 //  
 // 
@@ -111,3 +111,6 @@ concentrate(v)tập trung, focus
 suffer(v)chịu đựng, endure, hurt
 pursuit(v)theo đuổi, hunt
 approve(v)duyệt, agree, accept
+several
+resource
+entire
