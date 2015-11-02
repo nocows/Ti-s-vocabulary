@@ -53,6 +53,7 @@ demonstrate(v) trình bày, show, display, exhibit          demonstration(n)
 evaluate(v) xem xét, check out, dicide, judge           evaluation(n)
 strategy(n) chiến lược, plan, project, method
 location(n) địa điểm, place, site, area, section    locate(v) tìm 1 điểm nào đó
+independent(adj)độc lập, tự chủ, đứng 1 mình
 
 G R A M M A R: Should have, Could have, Would have (Past Modals)
 nói về những thứ không thực sự xảy ra trong quá khứ (hối tiếc, dự đoán)
@@ -89,9 +90,6 @@ về buildings: (search trên google images nha) Seattle Central Library, Guggen
 Ray and Maria Stata Center, cctv headquarters.
 
 
-G R A M M A R: Sentence Structure Cấu trúc câu 
-https://learnenglish.britishcouncil.org/en/english-grammar/clause-phrase-and-sentence/sentence-structure
-học kĩ "simple sentences" trước rồi mới qua compound sentences.
 
 
 accurate(adj)chính xác, precise, correct, exact
@@ -114,6 +112,14 @@ concentrate(v)tập trung, focus
 suffer(v)chịu đựng, endure, hurt
 pursuit(v)theo đuổi, hunt
 approve(v)duyệt, agree, accept
+
+
+G R A M M A R: Sentence Structure Cấu trúc câu 
+https://www.dlsweb.rmit.edu.au/lsu/content/4_WritingSkills/writing_tuts/sentences_LL/simple.html
+http://www2.ivcc.edu/rambo/eng1001/sentences.htm
+học kĩ "simple sentences" trước rồi mới qua compound sentences.
+
+
 several
 resource
 entire
