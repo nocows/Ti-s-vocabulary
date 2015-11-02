@@ -1,5 +1,14 @@
-"Patience is bitter but it's fruit is sweet" 
--Jean-Jacques Rousseau-
+*************************************************************************************************************************
+//                  "Patience is bitter but it's fruit is sweet"        
+//                            -Jean-Jacques Rousseau- 
+// 
+// Check for examples of new vocabulary here: http://sentence.yourdictionary.com/
+// 
+//  
+// 
+// 
+*************************************************************************************************************************
+
 
 
 credit(v)(n) (points, tribute) 
@@ -82,8 +91,23 @@ Ray and Maria Stata Center, cctv headquarters.
 
 
 
-accurate(adj)
-personal(adj)
-announce(v)
-legal(adj)
-suit(v)
+accurate(adj)chính xác, precise, correct, exact
+personal(adj)cá nhân, own, particular             person(n)
+announce(v)thông báo, tell, call, decalre, reveal           announcement(n)
+legal(adj)hợp pháp, valid, fair, proper         #illegal(adj) bất hợp pháp
+aspect(n)khía cạnh, phương diện, condition
+abroad(adj) nước ngoài, international, foreign, overseas
+involve(v)liên quan, commit, associate
+encourage(v)khuyến khích, inspire
+complicated(v)rắc rối
+literate(n)(adj)biết chữ hoặc ng biết chữ (vd: literate rate in vn is about 93%)
+employee(n)nhân viên, người làm công       employer(n)người chủ       employment/unemployment(n)có việc/thất nghiệp
+occupation(n)nghề nghiệp, công việc, career, profession
+private(adj)cá nhân, riêng tư, secret, individual, personal
+graduate(v)tốt nghiệp
+qualify(v)đủ điều kiện, meet, pass      qualification(n)khả năng
+cheat(v)gian lận
+concentrate(v)tập trung, focus
+suffer(v)chịu đựng, endure, hurt
+pursuit(v)theo đuổi, hunt
+approve(v)duyệt, agree, accept
